@@ -1,1 +1,4 @@
-# Data515_MediaAnalysis_FinalProj
+# Reel Connections
+**Project Members:** Owen Guo, Zach Lubarsky, Henry Shi, Daniel Yan
+**Project Type:** Tool
+
