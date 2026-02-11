@@ -1,4 +1,4 @@
-1\\. Paul the player
+1\. Paul the player
 
 * Want: Casual, for fun, player, want's to test movie knowledge
 * Interaction methods: User inputs through web UI provided by creators
@@ -9,7 +9,7 @@
 
 
 
-2\\. Candice the competitor
+2\. Candice the competitor
 
 * Want: Test movie knowledge, but on a competitive level, wants to place on the leaderboards
 * Interaction methods: User inputs through web UI provided by creators, paying attention to leaderboards as well
