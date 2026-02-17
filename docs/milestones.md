@@ -1,4 +1,4 @@
-\# Milestones
+# Milestones
 
-!\[Milestones](milestones.png)
+![Milestones](milestones.png)
 
