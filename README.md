@@ -1,4 +1,7 @@
 # Reel Connections
+[![Coverage Status](https://coveralls.io/repos/github/Shilord/Data515_MediaAnalysis/badge.svg?branch=main)](https://coveralls.io/github/Shilord/Data515_MediaAnalysis?branch=main)
+![Workflow Status](https://github.com/Shilord/Data515_MediaAnalysis/actions/workflows/build_test.yml/badge.svg)  
+
 **Project Members:** Owen Guo, Zach Lubarsky, Henry Shi, Daniel Yan
 
 **Project Type:** Web App/Tool
